@@ -1,0 +1,4 @@
+[submodule "external-resources/ResearchKit"]
+	path = external-resources/ResearchKit
+	url = git@github.com:ResearchKit/ResearchKit.git
+	branch = main
